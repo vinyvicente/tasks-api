@@ -1,4 +1,4 @@
-# Personal Tickets Manager
+# Personal Tasks Manager
 
 ---
 
