@@ -31,7 +31,7 @@ docker exec -it task-api-php php artisan migrate
 docker exec -it task-api-php vendor/bin/phpunit
 ```
 
-   * Tests Directory: https://github.com/vinyvicente/tickets-manager/tree/master/app/UI/Tests
+   * Tests Directory: https://github.com/vinyvicente/tasks-api/tree/master/app/UI/Tests
 
 ### Explaining the test
 
