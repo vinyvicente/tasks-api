@@ -41,7 +41,7 @@ The application test was made with a database separated in the Docker. Feature t
 
 Authentication and authorization with Bearer Token using JWT.
 
-### API Actions
+### API Actions (POSTMAN collection: /storage/api-docs/tests.postman_collection.json)
 
 | Action           | Description                | Protected |
 |------------------|----------------------------|-----------|
